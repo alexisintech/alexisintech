@@ -103,9 +103,10 @@ Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/bu
 ![TypeScript](https://img.shields.io/badge/typescript-272b33?logo=typescript&logoColor=ead41c&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-272b33?logo=react&logoColor=61dbfb&style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next-272b33?style=for-the-badge&logo=next.js&logoColor=white) 
+![Expo](https://img.shields.io/badge/expo-272b33?logo=expo&logoColor=61dbfb&style=for-the-badge)
+[![TanStack Start](https://img.shields.io/badge/TanStack_Start-272b33?logo=react&style=for-the-badge)](https://tanstack.com)
 ![Node.js](https://img.shields.io/badge/node.js-272b33?logo=node.js&logoColor=6bbf47&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
 
 <!-- SOCIALS -->
