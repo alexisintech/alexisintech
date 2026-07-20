@@ -4,7 +4,7 @@
 
 I currently manage the Documentation team at [Clerk](https://github.com/clerkinc) 💜
 
-I am a relentless explorer. I strive to continue to grow in all things, not just tech. I'm passionate about empathy and connection. In this life, nothing matters when we're all gone. But there are three things that we can control: the joy we experience, the memories we create, and the connections we make with other people. So I'm just trying to be a good person who loves and makes others feel loved. I feel fulfilled when I'm providing value, and I'm happiest when making others happy.
+I am a relentless explorer. I strive to continue to grow in all things, not just tech. I'm passionate about empathy and connection. In this life, there are three things that we can control: the joy we experience, the memories we create, and the connections we make with other people. I feel fulfilled when I'm providing value, and I'm happiest when making others happy.
 
 Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I also enjoy jamskating, reading about philosophy and Roman history, cooking, lifting weights, and watching anime.<br>
 
